@@ -28,7 +28,7 @@ class StreamEdit extends React.Component {
 		//const { title, description } = this.props.stream;
 		return (
 			<div>
-				<h3>Edit Stream</h3>
+				<h3>Edit Stream {this.props.stream.id}</h3>
 				<StreamForm
 					onSubmit={this.onSubmit}
 					initialValues={_.pick(this.props.stream, 'title', 'description')}
