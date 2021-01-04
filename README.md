@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## To Set Up Project Make api folder and rtmpserver siblings of client folder
+
+Currently as I am finishing this project github didn't follow the changes being implemented within api and rtmpserver. I am moving them into api folder as I am finishing project. If this project needs to be rebuilt create a parent folder and make sure that all three folders are siblings within the parent folder. Scripts are set to run. npm start within each directory will allow project to start up.

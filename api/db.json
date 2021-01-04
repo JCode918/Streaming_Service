@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream",
+      "id": 1
+    },
+    {
+      "title": "My Second Stream",
+      "description": "This stream is quite interesting...",
+      "id": 2
+    },
+    {
+      "title": "Coding Late At Night",
+      "description": "Learning React-Redux",
+      "userId": "112179101944334877317",
+      "id": 6
+    },
+    {
+      "title": "More Late Night Streaming",
+      "description": "Streaming Late night coding examples of React-Redux",
+      "userId": "112179101944334877317",
+      "id": 7
+    }
+  ]
+}
