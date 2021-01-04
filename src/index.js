@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-const NodeMediaServer = require('node-media-server');
+
 
 // Redux and React-Redux Imports
 import { Provider } from 'react-redux';
